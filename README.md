@@ -5,7 +5,7 @@
 ⚡ Fun fact:Love Music🎵
 
 
-## 🌐 Socials:
+## 🌐 Contact on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshvi._.05) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshvi-kapadia) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:keshvi05072005@gmail.com)
