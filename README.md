@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<img  src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="400" width="600"/>
-</div>
+
+<img  src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="600" width="800"/>
+
   <br>
 
 #
