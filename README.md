@@ -1,4 +1,4 @@
-<center><img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500" align="center"><br>
+<center><img align="center" src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500" ><br>
 
 
 # 
