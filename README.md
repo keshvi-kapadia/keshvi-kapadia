@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="200" width="500"><br>
+<img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500" align="center"><br>
 
 
 # 💫 About Me:
