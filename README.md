@@ -2,13 +2,15 @@
   <br>
 
 <h1 align="center"> Helllo👋 It's Keshvi Kapadia Here</h1>
+
 # About me:
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
 🌱 I’m currently learning DSA concepts<br>
 ⚡ Fun fact:Love Music🎵
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keshvi._.05) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshvi-kapadia) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:keshvi05072005@gmail.com)
