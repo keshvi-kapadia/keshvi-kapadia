@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently pursuing BscIT degree at Department of ICT of VNSGU<br>
+🖥 Aspiring IT Professional<br>
+🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
 🌱 I’m currently learning DSA concepts<br>
 ⚡ Fun fact:Love Music🎵
