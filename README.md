@@ -1,7 +1,7 @@
-<img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500" align="center"><br>
+<center><img src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500" align="center"><br>
 
 
-# 💫 About Me:
+# 
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
@@ -33,3 +33,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Keshvi123&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</center>
