@@ -1,8 +1,8 @@
-<img align="center" src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="300" width="500"/>
+<img align="center" src="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622.jpg" height="400" width="600"/>
   <br>
 
 <h1 align="center"> Helllo👋 It's Keshvi Kapadia Here</h1>
-## About me:
+# About me:
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
