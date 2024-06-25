@@ -1,3 +1,7 @@
+<img src="![pngtree-girl-working-with-computer-icons-workplace-professional-manager-vector-png-image_47034622](https://github.com/Keshvi123/Keshvi123/assets/150351480/dd80ce23-9758-4df7-ad10-7c4264bc8fab)
+" height="200" width="500"><br>
+
+
 # 💫 About Me:
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
