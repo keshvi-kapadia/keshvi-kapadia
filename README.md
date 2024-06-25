@@ -2,7 +2,7 @@
   <br>
 
 <h1 align="center"> Helllo👋 It's Keshvi Kapadia Here</h1>
-# About me:
+## About me:
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
