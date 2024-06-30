@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/Keshvi_575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Keshvi_575" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,html,css)]
+![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,html,css)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keshvi123&theme=swift&hide_border=false)
