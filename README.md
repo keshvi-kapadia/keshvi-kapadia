@@ -8,7 +8,7 @@
 🖥 Aspiring IT Professional<br>
 🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
 👯I’m looking to collaborate on hackathons<br>
-🌱 I’m currently learning DSA concepts<br>
+🌱 I’m currently learning DSA concepts and OOPS concept in C++<br>
 ⚡ Fun fact:Love Music🎵
 
 # 🌐 Socials:
