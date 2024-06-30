@@ -13,8 +13,8 @@
 
 # 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/keshvi._.05) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshvi-kapadia) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:keshvi05072005@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/keshvi-kapadia) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keshvi05072005@gmail.com)
 
 # Leetcode Profile:
 <a href="https://www.leetcode.com/Keshvi_575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Keshvi_575" height="30" width="40" /></a>
