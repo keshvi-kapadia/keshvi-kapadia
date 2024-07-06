@@ -19,7 +19,7 @@
 # Leetcode Profile and Stats:
 <a href="https://www.leetcode.com/Keshvi_575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Keshvi_575" height="30" width="40" /></a><br><br>
 ![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKeshvi_575&logo=leetcode&logoColor=yellow)<br><br>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Keshvi_575}" alt="LeetCode Badges"/>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username})
 
 
 # 💻 Tech Stack:
