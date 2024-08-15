@@ -21,7 +21,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,html,css)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keshvi123&theme=swift&hide_border=false)
