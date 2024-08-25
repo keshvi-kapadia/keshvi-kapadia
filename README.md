@@ -12,7 +12,7 @@
 ⚡ Fun fact:Love Music🎵
 
 # 🌐 Socials:
-//[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/keshvi._.05) 
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/keshvi-kapadia) 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keshvi05072005@gmail.com)
 
