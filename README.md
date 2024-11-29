@@ -24,8 +24,8 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css)
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshvi-kapadia&theme=swift&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&hide_progress=true)
+
 
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
