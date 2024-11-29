@@ -23,7 +23,11 @@
 # 💻 Tech Stack:
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="50" width="50"></a>
 <a href="https://isocpp.org/"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="50" width="50"></a>
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="50" width="50"></a>
+<a href="https://html.com/"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50" width="50"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50" width="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" width="50"></a>
+<a href="https://dev.mysql.com/doc/"><img src="	https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" width="50"></a>
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&hide_progress=true)
