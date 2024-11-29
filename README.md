@@ -21,6 +21,7 @@
 
 
 # 💻 Tech Stack:
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="50" width="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" width="50"></a>
 # 📊 GitHub Stats:
 
