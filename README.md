@@ -27,7 +27,7 @@
 <a href="https://html.com/"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50" width="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50" width="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" width="50"></a>
-<a href="https://dev.mysql.com/doc/"><img src="	https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" width="50"></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" width="50"></a>
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&hide_progress=true)
