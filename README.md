@@ -21,7 +21,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css)
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&hide_progress=true)
