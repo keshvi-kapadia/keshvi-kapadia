@@ -1,38 +1,62 @@
-
-#
-<h1 align="center"> Helllo👋 It's Keshvi Kapadia Here</h1>
-
-# ABOUT
-🖥 Aspiring IT Professional<br>
-🔭 Pursuing BscIT degree at Department of ICT of VNSGU<br>
-⚡ Fun fact:Love Music🎵
-
-# 🌐 Socials:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/keshvi-kapadia) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keshvi05072005@gmail.com)
-
-# Leetcode Profile:
-<a href="https://www.leetcode.com/Keshvi_575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Keshvi_575" height="30" width="40" /></a><br><br>
-
-
-# 💻 Tech Stack:
-<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="50" width="50"></a>
-<a href="https://isocpp.org/"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="50" width="50"></a>
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="50" width="50"></a>
-<a href="https://html.com/"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50" width="50"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50" width="50"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" width="50"></a>
-<a href="https://dev.mysql.com/doc/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" width="50"></a>
-# 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&hide_progress=true)
-
-
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi 👋, I'm Keshvi Kapadia</h1>
+<h3 align="center">3rd Year IT Student | React Native Developer | AI & Full Stack Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Keshvi123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</center>
+## 💫 About Me
+
+🔭 I’m currently working on an **SSIP-funded AgriTech project – KhedNex**  
+&emsp;&emsp;🌾 Helping farmers manage fertilizer use through **AI**, **IoT**, and a mobile app  
+🌱 Currently learning: **PHP**, **RDBMS**, **Operating Systems**  
+💬 Ask me about: AI projects, App Dev, React Native  
+⚡ Fun fact: I debug faster with coffee ☕
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshvi-kapadia)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshvi05072005@gmail.com)
+
+---
+
+## 💻 Tech Stack (with Logos)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshvi-kapadia&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=keshvi-kapadia&theme=apprentice&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=keshvi-kapadia&icon=5&color=13" />
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
