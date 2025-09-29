@@ -78,13 +78,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshvi-kapadia&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=keshvi-kapadia&icon=5&color=13" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
