@@ -8,8 +8,6 @@
 🔭 I’m currently working on an **SSIP-funded AgriTech project – KhedNex**  
 &emsp;&emsp;🌾 Helping farmers manage fertilizer use through **AI**, **IoT**, and a mobile app  
 🌱 Currently learning: **PHP**, **RDBMS**, **Operating Systems**  
-💬 Ask me about: AI projects, App Dev, React Native  
-⚡ Fun fact: I debug faster with coffee ☕
 
 ---
 
@@ -25,7 +23,7 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  </a>
+  </a>   
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
   </a>
