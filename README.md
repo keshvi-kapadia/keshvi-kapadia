@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Tech Stack (with Logos)
+## 💻 Tech Stack
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
