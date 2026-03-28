@@ -5,22 +5,20 @@
 
 ## 💫 About Me
 
-🔭 I’m currently working on an **SSIP-funded AgriTech project – KhedNex**  
-&emsp;&emsp;🌾 Helping farmers manage fertilizer use through **AI**, **IoT**, and a mobile app  
-🌱 Currently learning: **PHP**, **RDBMS**, **Operating Systems**  
+🔭 Worked on an **SSIP-funded AgriTech project – KhedNex**  
+🌱 Currently Working on : **DSA in Java**, **Self learning Projects**, **Finding Industry Exposure**  
+💻 Open to contribute to real Projects
 
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshvi-kapadia)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshvi05072005@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
-
-<p align="left">
+<span align="left">
  
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -52,6 +50,6 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
-</p>
+</span>
 
 
