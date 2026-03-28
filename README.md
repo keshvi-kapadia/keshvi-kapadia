@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 <span align="left">
  
-  <a href="https://reactnative.dev/" target="_blank">
+  <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
