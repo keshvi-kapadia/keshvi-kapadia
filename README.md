@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshvi Kapadia</h1>
-<h3 align="center">3rd Year IT Student | React Native Developer | AI & Full Stack Enthusiast</h3>
+<h3 align="center">3rd Year IT Student | Aspiring Software Developer</h3>
 
 ---
 
